@@ -1,4 +1,4 @@
-# Lightbulb-CSS-Art
+# Lightbulb CSS Art
 
 ![Screenshot 2021-08-30 204448](https://user-images.githubusercontent.com/72047699/131396287-1fbf17eb-67d2-4aa8-a44e-163142f06170.png)
 
